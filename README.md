@@ -5,7 +5,7 @@ You may find road maps for our various services [here](https://github.com/modcom
 ![Mod Marketplace Image](./images/marketplace.png)
 
 ## [Server Browser](https://github.com/orgs/modcommunity/projects/2)
-![Server Browser Image](./images/marketplace.png)
+![Server Browser Image](./images/serverbrowser.png)
 
 ## [Community Hub](https://github.com/orgs/modcommunity/projects/3)
 ## [Forums](https://github.com/orgs/modcommunity/projects/4)
