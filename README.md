@@ -12,7 +12,7 @@ You may find road maps for our various services [here](https://github.com/modcom
 ![Hub Image](./images/hub.png)
 
 ## [Platinum](https://github.com/orgs/modcommunity/projects/5)
-Platinum (name change TBD) will act as a community suite and implement all of our current services into their own open source application instead of relying on [Invision Power Services](https://invisionpower.com/), which is what we're using for at this moment.
+Platinum (name change TBD) will act as a community suite and implement all of our current services into their own open source applications instead of relying on [Invision Power Services](https://invisionpower.com/), which is what we're using for at this moment.
 
 We aim for these projects to be used by other gaming and modding communities.
 
